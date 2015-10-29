@@ -928,6 +928,7 @@ a.btn.btn-3:visited {
 .slidertextinner h1 {
   margin-bottom: 12px;
   font-size: 18px;
+  margin-top: 0px;
 }
 }
 .slidertextinner h2 {
