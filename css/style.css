@@ -199,6 +199,14 @@ blockquote p {
   margin-right: 0;
   margin-left: 0;
 }
+
+.col-sm-6 ul li {
+  list-style-type:disc;
+  list-style-position: inside;
+  text-indent: -1em;
+  padding-left: 1em;
+}
+
 @media (max-width: 767px) {
 .pull-right{
   float: none;
@@ -376,7 +384,7 @@ h1 {
   float: right;
   width: 42px;
   height: 34px;
-  margin-top: 22px;
+  margin-top: 18px;
   margin-bottom: 8px;
   background-color:#e7453a;
   border: none;
@@ -852,7 +860,7 @@ a.btn.btn-3:visited {
   position: relative;
   top: 0;
   left: 0;
-  padding: 20px 0;
+  padding: 10px 0 12px 0;
   margin-top: 0;
   margin-left: 0;
   float: left;
@@ -908,6 +916,7 @@ a.btn.btn-3:visited {
 @media (max-width: 1250px) {
 .slidertextinner h1 {
   margin-bottom: 12px;
+  margin-top: 50px;
 }
 }
 @media (max-width: 1000px) {
@@ -1257,6 +1266,7 @@ i.aboutusicon:hover {
 }
 .onelist { 
   float: left;
+  margin-bottom: 20px;
 }
 .onelist h4 { 
   margin: 0;
