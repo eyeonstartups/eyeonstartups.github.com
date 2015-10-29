@@ -912,6 +912,7 @@ a.btn.btn-3:visited {
   color: #1d0907;
   margin-bottom: 22px;
   line-height: 1;
+  margin-top: 50px;
 }
 @media (max-width: 1250px) {
 .slidertextinner h1 {
